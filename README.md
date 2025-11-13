@@ -21,4 +21,5 @@ DHCP, NAT, ACL
 WAN and serial connections
 
 Network troubleshooting
+
 💡 Goal: Strengthen my practical networking knowledge and prepare for real-world SOC and network infrastructure roles.
